@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "coverImage": "https://i.ibb.co.com/HPxLntv/2.png",
+      "title": "The Hidden Chronicles",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/ng30vQN/download-5.jpg",
+      "postedDate": "2024-11-20",
+      "readingTiming": 15,
+      "hashtag": ["#fiction", "#adventure", "#mystery"]
+    },
+    {
+      "id": 102,
+      "coverImage": "https://i.ibb.co.com/5TwYcvK/1.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/XWvwsXQ/download-4.jpg",
+      "postedDate": "2024-11-18",
+      "readingTiming": 20,
+      "hashtag": ["#science", "#space", "#knowledge"]
+    },
+    {
+      "id": 103,
+      "coverImage": "https://i.ibb.co.com/VYXRwbk/3.png",
+      "title": "Whispers of the Ocean",
+      "author": "Clara Wilson",
+      "author_img": "https://i.ibb.co.com/hst7GTn/download-3.jpg",
+      "postedDate": "2024-11-15",
+      "readingTiming": 12,
+      "hashtag": ["#poetry", "#nature", "#peace"]
+    },
+    {
+      "id": 104,
+      "coverImage": "https://i.ibb.co.com/sqms98W/4.jpg",
+      "title": "Startup Secrets",
+      "author": "Mark Taylor",
+      "author_img": "https://i.ibb.co.com/1Zp553W/download-2.jpg",
+      "postedDate": "2024-11-10",
+      "readingTiming": 25,
+      "hashtag": ["#business", "#success", "#entrepreneurship"]
+    },
+    {
+      "id": 105,
+      "coverImage": "https://i.ibb.co.com/RNnMhW6/tom-swinnen-7rv04maz-X7g-unsplash.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Lisa Brown",
+      "author_img": "https://i.ibb.co.com/RcvkMcM/download.jpg",
+      "postedDate": "2024-11-05",
+      "readingTiming": 18,
+      "hashtag": ["#lifestyle", "#selfcare", "#minimalism"]
+    }
+  ]
+  

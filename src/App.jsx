@@ -1,6 +1,9 @@
 import { useState } from 'react'
 
 import './App.css'
+import Header from './components/header'
+import Blogs from './components/blogs'
+import Bookmarks from './components/bookmarks'
 
 function App() {
  
@@ -8,8 +11,12 @@ function App() {
   return (
     <>
      
-      <h1 className=' text-5xl bg-slate-100'>React knowledge cafe</h1>
-      
+      <Header></Header>
+   
+   <div className='flex w-11/12 mx-auto'>
+   <Blogs></Blogs>
+   <Bookmarks></Bookmarks>
+   </div>
       
     </>
   )
